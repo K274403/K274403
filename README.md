@@ -1,4 +1,6 @@
-# 💫 About Me:
+#<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF00FF,00FFFF,39FF14,FFD700&center=true&vCenter=true&width=700&lines=🚀+Lootere+—+Developer+of+the+Future;Full+Stack+Developer;Automation+%7C+AI+%7C+Open+Source" />
+
+ 💫 About Me:
 - 🔥 Building bots, web apps & automation tools<br>- ⚡ Love working with **JS | React | Node | MongoDB | Python**<br>- 🛠 Currently experimenting with **AI + DevOps**<br>- 💡 Motto: *"Code. Automate. Dominate."*<br>
 
 
